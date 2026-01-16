@@ -1,1 +1,1 @@
-# Barbosa_etal_2026_GCB
+# barbosa-etal-gcb-remote-sensing
