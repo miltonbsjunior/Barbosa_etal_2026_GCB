@@ -265,7 +265,9 @@ Example wording you can adapt:
 ## Citation
 
 If you use these scripts, please cite:
+* Milton Barbosa. (2026). miltonbsjunior/barbosa_etal_2026_GCB_remore_sensing: v1.0.0 (GCB submission) (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18268845
 
+Also cite:
 * The associated manuscript (Barbosa et al., Global Change Biology, **[update with year/DOI]**).
 * The underlying data products:
 
